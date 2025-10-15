@@ -58,7 +58,6 @@ lazygit
 less
 libyaml
 libqalculate
-libreoffice
 llvm
 localsend
 luarocks
@@ -79,7 +78,6 @@ obsidian
 omarchy-chromium
 omarchy-lazyvim
 pamixer
-pinta
 playerctl
 plocate
 plymouth
@@ -94,6 +92,7 @@ ripgrep
 satty
 signal-desktop
 slurp
+slack
 spotify
 starship
 sushi
@@ -111,6 +110,7 @@ ufw
 ufw-docker
 unzip
 uwsm
+vscode
 walker-bin
 waybar
 wf-recorder
